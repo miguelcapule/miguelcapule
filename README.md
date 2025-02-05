@@ -17,14 +17,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## 📖 Languages I Use:
-
-- **JavaScript**: My primary language for web development.
-- **TypeScript**: For strongly typed JavaScript applications.
-- **Python**: For scripting and automation.
-- **Java**: For object-oriented programming and Android development.
-- **SQL (MySQL & MongoDB)**: For database management.
-- **HTML & CSS**: For structuring and styling web pages.
-
----
