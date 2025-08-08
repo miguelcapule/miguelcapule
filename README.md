@@ -1,4 +1,4 @@
-## 💻 Tech Stack
+![Tech Stack Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZkaGZzbW9xMXJibmhjcnNvM3Nmc25hOXhrNmNnbnl6bzZxNnRxMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohzdIuqJoo8QdKlnW/giphy.gif)
 
 <div align="center">
 
