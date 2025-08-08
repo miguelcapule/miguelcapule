@@ -38,4 +38,16 @@
 <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
+<!-- Frontend Tools -->
+<img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logoColor=white" /> 
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
+
+<!-- Real-time / Broadcasting -->
+<img src="https://img.shields.io/badge/Pusher-010101?style=for-the-badge&logo=pusher&logoColor=white" /> 
+
+<!-- Debugging -->
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<!-- Server / Deployment -->
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+
 </div>
