@@ -37,4 +37,6 @@
 <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Full+Stack+Developer;Laravel+%7C+Vue+%7C+React;Always+Learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+
 </div>
