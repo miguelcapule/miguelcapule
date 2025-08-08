@@ -44,6 +44,7 @@
 
 <!-- Real-time / Broadcasting -->
 <img src="https://img.shields.io/badge/Pusher-010101?style=for-the-badge&logo=pusher&logoColor=white" /> 
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white" />
 
 <!-- Debugging -->
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
