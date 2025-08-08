@@ -1,4 +1,4 @@
-![Tech Stack Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZkaGZzbW9xMXJibmhjcnNvM3Nmc25hOXhrNmNnbnl6bzZxNnRxMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohzdIuqJoo8QdKlnW/giphy.gif)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=%F0%9F%92%BB+Tech+Stack" alt="Typing SVG" />
 
 <div align="center">
 
