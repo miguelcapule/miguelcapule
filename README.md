@@ -64,5 +64,8 @@
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace_Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-4EAA25?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
