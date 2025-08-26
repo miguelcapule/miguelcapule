@@ -2,7 +2,7 @@
 
 ---
 
-## Programming Languages
+## Languages
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -29,7 +29,7 @@
 
 ---
 
-## Databases
+## Dbases
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
@@ -66,7 +66,7 @@
 
 ---
 
-## Real-time / Broadcasting
+## Broadcasting
 <div align="center">
   <img src="https://img.shields.io/badge/Pusher-010101?style=for-the-badge&logo=pusher&logoColor=white" /> 
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white" />
