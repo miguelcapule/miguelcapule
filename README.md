@@ -38,7 +38,7 @@
 
 ---
 
-## DevOps & Tools
+## DevOps
 <div align="center">
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -58,7 +58,7 @@
 
 ---
 
-## Design & Frontend Tools
+## Frontend Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
