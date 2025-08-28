@@ -69,7 +69,7 @@
 ## Broadcasting
 <div align="center">
   <img src="https://img.shields.io/badge/Pusher-010101?style=for-the-badge&logo=pusher&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
